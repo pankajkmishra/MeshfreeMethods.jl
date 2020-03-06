@@ -1,2 +1,2 @@
-# ADMLGeophysics
-ADMLGeophysics.jl --- Algorithmic differentiation and machine learning in geophysics 
+# MeshFree.jl 
+A Julia library for meshfree numerical modeling
